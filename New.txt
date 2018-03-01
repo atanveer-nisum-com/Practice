@@ -1,2 +1,3 @@
 New file is added
-I fixed something here 
+I fixed something here
+I did something here  
