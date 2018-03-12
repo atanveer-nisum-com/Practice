@@ -2,4 +2,10 @@ New file is added
 I fixed something here
 I did something here  
 
+
 I fixed a bug here 
+
+I added 
+a new test case 
+here 
+
