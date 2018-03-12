@@ -4,5 +4,7 @@ I will create a conflict now
 I applied a security fix here
 I continued my work ... 
 
-I am creating a conflict 
+
+I added some code here
+I am creating a conflict
 
